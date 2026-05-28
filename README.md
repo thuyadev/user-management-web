@@ -116,3 +116,4 @@ pnpm build
 ```
 
 Serve the `dist/` folder with any static host. Set `VITE_*` env vars at **build time** so they are baked into the bundle.
+
